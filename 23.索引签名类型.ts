@@ -1,4 +1,5 @@
 
+// 索引签名
 interface AnyObject {
     [key: string]: number
 }
